@@ -1,0 +1,8 @@
+NONNI TEACH - sito del podcast
+
+Caricate TUTTO il contenuto di questa cartella nel repository GitHub del sito (es. nonni-teach)
+con GitHub Desktop: copia dei file, Commit, Push. Poi su GitHub: Settings > Pages > Deploy from a branch > main.
+Indirizzo previsto: https://danilodauria.github.io/nonni-teach/
+
+Contengono solo le interviste con il consenso alla pubblicazione.
+Realizzato con il Consulente Digitale di Danilo D'Auria - codice MIT, contenuti CC BY-NC-SA 4.0.
